@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="demolibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/demolibrary_jar</output-path>
+    <root id="archive" name="demolibrary.jar">
+      <element id="module-output" name="demolibrary" />
+    </root>
+  </artifact>
+</component>
